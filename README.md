@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 19 years old and I'm student of data science in Universidad de Buenos Aires<br>I am currently learning technologies related to data analysis.<br>Like Python (with the data science pack), R, Statistics, Excel, Tableau, SQL and others.<br>
+I'm 19 years old and I'm student of data science in Universidad de Buenos Aires<br>I am currently learning technologies related to data analysis.<br>Like Python (with the data science pack), R, Statistics, Excel, Tableau, SQL and others.<br>
 
 
 ## 🌐 Socials:
