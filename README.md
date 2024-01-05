@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 19-year-old data science student at the Universidad de Buenos Aires, learning technologies like Python (with the data science pack), R, Statistics, Excel, Tableau, SQL, and more. <br>I'm passionate about uncovering hidden patterns, extracting insights, and transforming data into actionable knowledge. <br> Join me on this thrilling adventure as we unlock the untapped potential of data and shape a future driven by evidence and informed decisions.
+I'm a 19-year-old data science student at the Universidad de San Martín, learning technologies like Python (with the data science pack), R, Statistics, Excel, Tableau, SQL, and more. <br>I'm passionate about uncovering hidden patterns, extracting insights, and transforming data into actionable knowledge. <br> Join me on this thrilling adventure as we unlock the untapped potential of data and shape a future driven by evidence and informed decisions.
 
 
 ## 🌐 Socials:
